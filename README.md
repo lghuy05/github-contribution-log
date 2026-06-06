@@ -1,3 +1,4 @@
+This repo url: https://github.com/lghuy05/github-contribution-log
 [contribution_readme.md](https://github.com/user-attachments/files/28662788/contribution_readme.md)
 # Contribution [#]: [Issue Title]
 
