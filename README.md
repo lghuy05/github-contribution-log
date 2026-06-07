@@ -5,8 +5,7 @@
 **Contribution Number:** [1]  
 **Student:** [Huy Luong]  
 **Issue:** [[GitHub issue link](https://github.com/pgrwl/pgrwl/issues/278)]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
-current phase: I
+**Status:** [Phase I]
 ---
 
 ## Why I Chose This Issue
