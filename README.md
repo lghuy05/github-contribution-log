@@ -1,6 +1,5 @@
 
-[contribution_readme.md](https://github.com/user-attachments/files/28662788/contribution_readme.md)
-# Contribution [#]: [feat: create docs/glossary.md]
+# Contribution 1: [feat: create docs/glossary.md]
 
 **Contribution Number:** 1 
 **Student:** Huy Luong 
