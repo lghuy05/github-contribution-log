@@ -1,12 +1,12 @@
 This repo url: https://github.com/lghuy05/github-contribution-log
 [contribution_readme.md](https://github.com/user-attachments/files/28662788/contribution_readme.md)
-# Contribution [#]: [Issue Title]
+# Contribution [#]: [feat: create docs/glossary.md]
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
+**Contribution Number:** [1]  
+**Student:** [Huy Luong]  
+**Issue:** [[GitHub issue link](https://github.com/pgrwl/pgrwl/issues/278)]  
 **Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
-
+current phase: I
 ---
 
 ## Why I Chose This Issue
