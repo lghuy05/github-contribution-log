@@ -1,4 +1,4 @@
-This repo url: https://github.com/lghuy05/github-contribution-log
+<img width="1662" height="226" alt="image" src="https://github.com/user-attachments/assets/8d069118-7a21-4fe5-9919-30e3301fe872" /><img width="1662" height="226" alt="image" src="https://github.com/user-attachments/assets/406979b3-db80-4789-aef9-fa9812e0dca9" />This repo url: https://github.com/lghuy05/github-contribution-log
 [contribution_readme.md](https://github.com/user-attachments/files/28662788/contribution_readme.md)
 # Contribution [#]: [feat: create docs/glossary.md]
 
@@ -11,7 +11,14 @@ current phase: I
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+[
+This issue is a good fit for me because it combines technical writing with core PostgreSQL backup and recovery concepts that are important for new users to understand. The glossary needs short, precise explanations for terms like WAL, LSN, PITR, replication slot, and base backup, which makes it a practical way to contribute while improving documentation clarity for people evaluating backup tools and trying to understand how PITR works.
+
+I also chose it because it requires careful reading of the official PostgreSQL documentation and turning complex internal concepts into accessible terminology. That matches my interest in making technical systems easier to understand, and it gives me a chance to learn the relationships between these backup and recovery components while producing something directly useful for users.
+
+Shorter version:
+
+I chose this issue because it focuses on clarifying essential PostgreSQL backup and recovery terms for new users. It matches my interest in technical writing and will help me deepen my understanding of concepts like WAL, LSN, PITR, replication slots, and base backups while creating documentation that is practical and easy to follow.]
 
 ---
 
