@@ -1,4 +1,4 @@
-<img width="1662" height="226" alt="image" src="https://github.com/user-attachments/assets/8d069118-7a21-4fe5-9919-30e3301fe872" /><img width="1662" height="226" alt="image" src="https://github.com/user-attachments/assets/406979b3-db80-4789-aef9-fa9812e0dca9" />This repo url: https://github.com/lghuy05/github-contribution-log
+
 [contribution_readme.md](https://github.com/user-attachments/files/28662788/contribution_readme.md)
 # Contribution [#]: [feat: create docs/glossary.md]
 
